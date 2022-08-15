@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Stack Exchange:
+Stack Exchange
 
 <a href="https://stackexchange.com/users/13375762"><img src="https://stackexchange.com/users/flair/13375762.png" width="208" height="58" alt="profile for Saurabh on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Saurabh on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
